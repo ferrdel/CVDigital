@@ -1,4 +1,4 @@
- # HOLA!
+ # HOLA! 👋
 ____________________________________________________________________________________________
 
  ## Soy Mauricio Fernando Ramirez Delgado
@@ -36,8 +36,8 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________
 ### EDUCACION FORMAL
 
-> **Estudiante Lic. En Sistemas de Información, Corrientes – Arg.**
-            Facultad deCiencias Exactas y Naturales y Agrimensura – UNNE.
+> **Estudiante Lic. En Sistemas de Información**
+            Facultad deCiencias Exactas y Naturales y Agrimensura – UNNE. Corrientes – Arg.
 ____________________________________________________________________________________________
 ###  EDUCACION COMPLEMENTARIA
 
