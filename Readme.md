@@ -1,4 +1,7 @@
+> ____________________________________________________________________________________________
+
 > # HOLA! 👋
+
 > ____________________________________________________________________________________________
 >
 > ## Soy Mauricio Fernando Ramirez Delgado
@@ -8,7 +11,7 @@
 > ### Mis Contactos
 >
 > - **Email:** fernandoramirezdelgado@gmail.com
-> - [Linkedin:](https://www.linkedin.com/in/mauricio-fernando-ramirez-delgado-326752189)
+> - [Linkedin](https://www.linkedin.com/in/mauricio-fernando-ramirez-delgado-326752189)
 >
 > ____________________________________________________________________________________________
 >
@@ -37,11 +40,13 @@
 > Desarrollo de Sistema de Gestión de Negocios, con módulos ABM desarrollados,listados. Tecnologías Usadas: .Net, SQL Server, LINQ. Lenguaje de Programación C#.
 >
 > ____________________________________________________________________________________________
+>
 > ### EDUCACION FORMAL 📝
 >
 > **Estudiante Lic. En Sistemas de Información**
 >            Facultad deCiencias Exactas y Naturales y Agrimensura – UNNE. Corrientes – Arg.
 > ____________________________________________________________________________________________
+>
 > ###  EDUCACION COMPLEMENTARIA 📝
 >
 > - **Formación Técnico – Académico en Crowdar Academy** - Automation Enginner.
