@@ -9,14 +9,14 @@ ________________________________________________________________________________
 
  ____________________________________________________________________________________________
 
- ### ACERCA DE MI..
+ ### ACERCA DE MI.. 👨‍💻
  Actualmente me encuentro estudiando la carrera Licenciatura en Sistemas de Información en la Universidad Nacional del Nordeste. Me encontré realizando proyectos en **Java**, **PHP**, **Python**, **JavaScript** y **Visual Basic**, con manejos de **base de datos SQL**. Adquiriendo conocimientos en la **calidad de software** y **Metodologías de desarrollo ágil**, como también realizando capacitación en el área de **pruebas automatizadas**, realizando Practicas de **Pruebas WEB**, **MOBILE** y **APIS**. Manejo de **Postman**, **Selemiun**, **GIT y GitHub**.
  
  Me considero una persona divertida, soñador y amable, trato de ayudar y aconsejar a los demas siempre que lo necesiten cuando recurren a mi. Con ganas constantes de aprender y dar lo mejor de mi en cada desafio que se me presente. Con el objetivo de seguir aprendiendo y formándome profesionalmene, como asi tambien personalmente.
 
 ____________________________________________________________________________________________
 
-### EXPERIENCIA
+### EXPERIENCIA 📝
 > #### Nivel Universitario.
     Cuento con conocimientos en lenguajes de programación Java, Visual Basic, PHP, Python, JavaScript. Desarrollo WEB, como También en el manejo de Base de Datos SQL.
 
@@ -34,12 +34,12 @@ ________________________________________________________________________________
 
 
 ____________________________________________________________________________________________
-### EDUCACION FORMAL
+### EDUCACION FORMAL 📝
 
 > **Estudiante Lic. En Sistemas de Información**
             Facultad deCiencias Exactas y Naturales y Agrimensura – UNNE. Corrientes – Arg.
 ____________________________________________________________________________________________
-###  EDUCACION COMPLEMENTARIA
+###  EDUCACION COMPLEMENTARIA 📝
 
 > - **Formación Técnico – Académico en Crowdar Academy** - Automation Enginner.
 > - **Curso “JavaScript Intensivo”** - Programa Nacional de Oportunidades de Formación de CILSA.
