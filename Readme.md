@@ -55,6 +55,7 @@
 >
 > **Colegio General San Martin, Corrientes,Arg.**
 >            Orientación Cs. Naturales - Completo
+>
 > ____________________________________________________________________________________________
 >
 > ###  CERTIFICACIONES 📝
