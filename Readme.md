@@ -11,15 +11,15 @@
 > ### Mis Contactos
 >
 > - **Email:** fernandoramirezdelgado@gmail.com
-> - [Linkedin](https://www.linkedin.com/in/mauricio-fernando-ramirez-delgado-326752189)
+> - [Linkedin](https://www.linkedin.com/in/ferrdel/)
 >
 > ____________________________________________________________________________________________
 >
 > ### ACERCA DE MI.. 👨‍💻
 >
-> Actualmente me encuentro estudiando la carrera Licenciatura en Sistemas de Información en la Universidad Nacional del Nordeste. Me encontré realizando proyectos en **Java**, **PHP**, **Python**, **JavaScript** y **Visual Basic**, con manejos de **base de datos SQL**. Adquiriendo conocimientos en la **calidad de software** y **Metodologías de desarrollo ágil**, como también realizando capacitación en el área de **pruebas automatizadas**, realizando Practicas de **Pruebas WEB**, **MOBILE** y **APIS**. Manejo de **Postman**, **Selemiun**, **GIT y GitHub**.
+> Actualmente me encuentro estudiando la carrera Licenciatura en Sistemas de Información en la Universidad Nacional del Nordeste. Con muchas ganas de aprender y desarrollarme en el área de IT.
 > 
-> Me considero una persona divertida, soñador y amable, trato de ayudar y aconsejar a los demas siempre que lo necesiten cuando recurren a mi. Con ganas constantes de aprender y dar lo mejor de mi en cada desafio que se me presente. Con el objetivo de seguir aprendiendo y formándome profesionalmene, como asi tambien personalmente.
+> Me considero una persona flexible, con capacidad de adaptación, organizado, predispuesto, paciente y con excelentes relaciones interpresonales. Con ganas constantes de aprender y dar lo mejor de mi en cada desafio que se me presente. Con el objetivo de seguir aprendiendo y formándome profesionalmene, como asi tambien personalmente.
 >
 >____________________________________________________________________________________________
 >
@@ -41,15 +41,38 @@
 >
 > ____________________________________________________________________________________________
 >
-> ### EDUCACION FORMAL 📝
+> ### HABILIDADES
+>   Java, Framework Codeigniter (PHP), MySQL, JavaScript, CSS,HTML 5, JavaScript, .Net,SQL Server
+>   LINQ, C#, Git, Github, Selenium, Cucumber, Postman
+>
+> ____________________________________________________________________________________________
+>
+> ### FORMACIÓN ACADÉMICA 📝
 >
 > **Estudiante Lic. En Sistemas de Información**
 >            Facultad deCiencias Exactas y Naturales y Agrimensura – UNNE. Corrientes – Arg.
+>                                                          2017- Actualidad. Cursando 4to año
+>
+> **Colegio General San Martin, Corrientes,Arg.**
+>            Orientación Cs. Naturales - Completo
 > ____________________________________________________________________________________________
 >
-> ###  EDUCACION COMPLEMENTARIA 📝
+> ###  CERTIFICACIONES 📝
 >
 > - **Formación Técnico – Académico en Crowdar Academy** - Automation Enginner.
 > - **Curso “JavaScript Intensivo”** - Programa Nacional de Oportunidades de Formación de CILSA.
 > - **Curso “Introducción a Las Bases de Datos”** - Programa Nacional de Oportunidades de Formación de CILSA.
-> - **Nivel Básico en Inglés y Portugués.**
+> - **Sistema de Manejo de Versiones en Git/GitHub** - Universidad Nacional Raúl Scalabrini Ortiz
+> - **Curso de Testing** - Universidad Nacional Raúl Scalabrini Ortiz
+> - **Curso Desarrollador Java** - NEORIS-UTN BECAS 2022
+>
+> ____________________________________________________________________________________________
+>
+> ### IDIOMAS 📝
+>
+> - **Inglés técnico Informático** - Universidad Nacional del Nordeste.
+> - **Ingles con fines específicos** - Instituto Superior Josefina Contte.
+> - **Portugues Basico** 
+>
+> ____________________________________________________________________________________________
+>
