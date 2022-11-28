@@ -47,17 +47,6 @@
 >
 > ____________________________________________________________________________________________
 >
-> ### FORMACIÓN ACADÉMICA 📝
->
-> **Estudiante Lic. En Sistemas de Información**
->            Facultad deCiencias Exactas y Naturales y Agrimensura – UNNE. Corrientes – Arg.
->                                                          2017- Actualidad. Cursando 4to año
->
-> **Colegio General San Martin, Corrientes,Arg.**
->            Orientación Cs. Naturales - Completo
->
-> ____________________________________________________________________________________________
->
 > ###  CERTIFICACIONES 📝
 >
 > - **Formación Técnico – Académico en Crowdar Academy** - Automation Enginner.
@@ -66,6 +55,17 @@
 > - **Sistema de Manejo de Versiones en Git/GitHub** - Universidad Nacional Raúl Scalabrini Ortiz
 > - **Curso de Testing** - Universidad Nacional Raúl Scalabrini Ortiz
 > - **Curso Desarrollador Java** - NEORIS-UTN BECAS 2022
+>
+> ____________________________________________________________________________________________
+>
+> ### FORMACIÓN ACADÉMICA 📝
+>
+> **Estudiante Lic. En Sistemas de Información**
+>            Facultad deCiencias Exactas y Naturales y Agrimensura – UNNE. Corrientes – Arg.
+>                                                          2017- Actualidad. Cursando 4to año
+>
+> **Colegio General San Martin, Corrientes,Arg.**
+>           Orientación Cs. Naturales - Completo.
 >
 > ____________________________________________________________________________________________
 >
